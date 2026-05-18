@@ -48,7 +48,7 @@
  Gearbox casings are primarily maufactured using casting, so designer can select the fuel and efficiency of the casting furnce.
 
 </div>
-  <img src="assets/fuel.png" width="300">
+  <img src="Assets/fuel.png" width="300">
 </div>
 
 ---
