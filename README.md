@@ -169,7 +169,7 @@ Simulation iterations stop when: a specified maximum number of iterations are co
 </td>
 
 <td>
-<img src="assets/simulation.png" width="300">
+<img src="Assets/simulation.png" width="700">
 </td>
 
 </tr>
@@ -180,14 +180,14 @@ Simulation iterations stop when: a specified maximum number of iterations are co
 #### Optimization Results
 For each iteration, the tool populates a table with each dimension's value, maximum stress, FoS, and eco-indicator points.
 
-<img src= "assets/simulation table.png">
+<img src= "Assets/simulation table.png">
 
 ---
 
 ### Identification of Best Optimization Iteration
 The tool projects each iteration of a _**scatter plot**_ of EI99  (x-axis) and FoS (y-axis), and highlights the **best Pareto trade-off** iteration between both parameters.
 
-<img src= "assets/scatter plot.png">
+<img src= "Assets/scatter plot.png">
 
 ----
 
