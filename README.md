@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="assets/logo.png" width="150" height = "100">
+<img src="Assets/logo.png" width="150" height = "100">
 
 </div>
 
@@ -24,7 +24,7 @@
 
  The tool currently supports **gearbox casings** as a case study.
 
-<img src= "assets/dashboard.png">
+<img src= "Assets/dashboard.png">
 
 ## Key Features
 
@@ -75,7 +75,7 @@ The tool reads the volume of drilled bolt holes and reads the area of machining 
  Choose trasportation methods and distances from various option.
 
 </div>
-  <img src="assets/transportation.png" width="300">
+  <img src="Assets/transportation.png" width="300">
 </div>
 
 ---
@@ -88,7 +88,7 @@ The tool reads the volume of drilled bolt holes and reads the area of machining 
  Choose between **recycling** and **landfill** disposal.
 
 </div>
-  <img src="assets/end-of-life.png" width="300">
+  <img src="Assets/end-of-life.png" width="300">
 </div>
 
 ---
@@ -96,7 +96,7 @@ The tool reads the volume of drilled bolt holes and reads the area of machining 
 #### Eco-Indicator 99 Tables Results
  The tool generates environmental tables with one click, which are tables for **production, processing, transportation** and **end-of-life**.
 
-<img src="assets/summary table.png">
+<img src="Assets/summary table.png">
 
 ---
 
@@ -118,7 +118,7 @@ The tool reads the volume of drilled bolt holes and reads the area of machining 
  >Example: `Thickness@Flange`, `Step: 1mm`, `Reduce`, `Min: 5mm`.
 
 </div>
-  <img src="assets/simulation dimensions.png" width="300">
+  <img src="Assets/simulation dimensions.png" width="300">
 </div>
 
 ---
