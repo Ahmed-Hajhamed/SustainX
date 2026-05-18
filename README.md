@@ -144,7 +144,7 @@ The tool reads the volume of drilled bolt holes and reads the area of machining 
 </td>
 
 <td>
-  <img src="Assets/simulation dimensions.png" width="300">
+  <img src="Assets/simulation dimensions.png" width="700">
 </td>
 
 </tr>
