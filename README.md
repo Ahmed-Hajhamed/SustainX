@@ -1,5 +1,5 @@
 # SustainX
-<table>
+<table align="center">
 <tr>
 <td>
 
@@ -81,7 +81,7 @@ The tool reads the volume of drilled bolt holes and reads the area of machining 
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td>
 
@@ -99,7 +99,7 @@ The tool reads the volume of drilled bolt holes and reads the area of machining 
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td>
 
