@@ -229,6 +229,7 @@ Results from both environmental assessment and optimization iterations can be ex
 
 ## Research Results
 
+>#### SustainX achieved `~53%` reduction in EI99 points, with a massive `98%` reduction in computational time.
 <div align="center">
 
 <table>
@@ -240,38 +241,38 @@ Results from both environmental assessment and optimization iterations can be ex
 
   <tr>
     <td align="left">Computation Time</td>
-    <td align="center">330 min</td>
-    <td align="center">6 min 51 s</td>
+    <td align="left">330 min</td>
+    <td align="left">6 min 51 s</td>
   </tr>
 
   <tr>
     <td align="left">Time Reduction</td>
-    <td align="center">baseline</td>
-    <td align="center">97.9%</td>
+    <td align="left">baseline</td>
+    <td align="left">97.9%</td>
   </tr>
 
   <tr>
     <td align="left">EI99 Score (mPt)</td>
-    <td align="center">1,978.93</td>
-    <td align="center">3,513.77</td>
+    <td align="left">1,978.93</td>
+    <td align="left">3,513.77</td>
   </tr>
 
   <tr>
     <td align="left">EI99 Improvement</td>
-    <td align="center">74.0%</td>
-    <td align="center">53.8%</td>
+    <td align="left">74.0%</td>
+    <td align="left">53.8%</td>
   </tr>
 
   <tr>
     <td align="left">Factor of Safety (FOS)</td>
-    <td align="center">2.8</td>
-    <td align="center">14.0</td>
+    <td align="left">2.8</td>
+    <td align="left">14.0</td>
   </tr>
 
   <tr>
     <td align="left">FOS Reduction</td>
-    <td align="center">94.7%</td>
-    <td align="center">72.2%</td>
+    <td align="left">94.7%</td>
+    <td align="left">72.2%</td>
   </tr>
 </table>
 
