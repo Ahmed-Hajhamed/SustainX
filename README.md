@@ -41,7 +41,7 @@
 </td>
 
 <td>
-<img src="Assets/assessment controls.png" width="300">
+<img src="Assets/assessment controls.png" width="500">
 </td>
 
 </tr>
@@ -59,7 +59,7 @@
 </td>
 
 <td>
-  <img src="Assets/fuel.png" width="300">
+  <img src="Assets/fuel.png" width="500">
 </td>
 
 </tr>
