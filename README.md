@@ -317,3 +317,6 @@ Results from both environmental assessment and optimization iterations can be ex
 >[![Watch Demo](https://img.shields.io/badge/YouTube-Watch%20Now-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=LN9ammy3VhU&feature=youtu.be)
 
 </div>
+
+---
+### SustainX Tool is available upon request through email: sustainx.team@gmail.com
